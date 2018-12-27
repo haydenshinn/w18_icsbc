@@ -1,7 +1,8 @@
 1) What are three interesting facts about you?
-
+I am from Santa Barbara, California. I have a dog named Max. I have never coded before!
 
 2) What's your favorite song and movie?
-
+My favorite song currently is "1950" by King Princess and my favorite movie is "Lady Bird".
 
 3) Why do you want to learn how to program?
+I am interested in studying computational biology and preparing for CS61A. 
