@@ -5,3 +5,5 @@
 
 
 ### Your Code Here ###
+answer = (365.25*24)
+puts answer.to_i

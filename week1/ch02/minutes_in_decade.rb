@@ -3,3 +3,5 @@
 
 
 ### Your Code Here ###
+answer = 10*365.25*24*60
+puts answer.to_i

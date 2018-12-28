@@ -5,3 +5,8 @@
 
 
 ### Your Code Here ###
+# author is 1160000000 seconds old
+age_in_hours = 1160000000/3600
+age_in_days = age_in_hours/24
+age_in_years = age_in_days/(365.25)
+puts age_in_years
