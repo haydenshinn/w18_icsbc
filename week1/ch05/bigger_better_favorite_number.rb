@@ -4,3 +4,8 @@
 
 
 ### Your Code Here ###
+puts "What is your favorite number?"
+favorite_number = gets.chomp
+
+suggestion = favorite_number.to_i + 1
+puts suggestion.to_s + ' is a better option.'
